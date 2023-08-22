@@ -1,0 +1,36 @@
+line 47 
+"""class in css file"""
+48 scalable vector graphic all graphics in page 
+49 all styles of doctor image boxes are defined here
+52 dfs is an element to embed definition of an svg image 
+53- helps in smooth transition
+53 id is a class 
+59 ussed to define cordinate system used for attr specified on s=gradient element
+61 indicates colors of gradient 
+62 ""
+76 g-global match
+79 finds all matches 
+d is used to match any single no. like regex
+
+81 transform to move element as per attr value 
+degree to which element moved
+graphs coding 
+then about team memebers
+
+home.css
+container present flex1 - to fill all available spaces 
+overflow -y along y axis fill values 
+centre align 
+webkit animation - 25s 
+moz-animation -
+
+26@media
+apply part of style sheet based on result of one or more media
+32 controls intermediate steps in css animation
+32keyframes - also called waypoint  along animation sequence
+0% 50% used for adaptability
+56 - css rule contains intermediate levels
+126 - all background text is supported in all main browsers wth webkit graphics 
+allows bg img to be clipped by text element
+
+
